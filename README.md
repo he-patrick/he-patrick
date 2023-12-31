@@ -8,7 +8,7 @@
 
 #### I work with
 * 💻 C++ | Python | Java | Typescript
-* ![image | 100](https://github.com/he-patrick/he-patrick/assets/77468352/29847d98-b112-4798-96f6-280ee83305ad) Next.js | React.js | Laravel
+* <img src="https://github.com/he-patrick/he-patrick/assets/77468352/29847d98-b112-4798-96f6-280ee83305ad" width="20px" height="20px" style="vertical-align: super;"> Next.js | React.js | Laravel
 
  #### Stats
 [![Stats](https://github-readme-stats.vercel.app/api?username=he-patrick)](https://github.com/he-patrick)
