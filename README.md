@@ -1,7 +1,7 @@
 ### Hello 👋
 * My name's Patrick He
 * Computer Engineering Student at the University of Waterloo
-* Feel free the check out my website: 🌐 [website](https://patrickhe.com).
+* Feel free the check out my website: 🌐 [patrickhe.com](https://patrickhe.com).
 
 #### Current Working on
 * [AI Exam Grader](https://github.com/he-patrick/ai-exam-grader) - *Next.js application that grades exams*
