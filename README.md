@@ -7,14 +7,13 @@
 * [AI Exam Grader](https://github.com/he-patrick/ai-exam-grader) - *Next.js application that grades exams*
 
 #### I work with
-* 💻 C++ | Python | Java | Typescript
-* <img src="https://github.com/he-patrick/he-patrick/assets/77468352/29847d98-b112-4798-96f6-280ee83305ad" width="20px" height="20px" style="vertical-align: super;"> Next.js | React.js | Laravel
+* 💻 C++ | Python | Java | Typescript | Next.js | React.js | Laravel
 
  #### Stats
 [![Stats](https://github-readme-stats.vercel.app/api?username=he-patrick)](https://github.com/he-patrick)
 
 #### Other Social Medias
-💼 [LinkedIn](https://www.linkedin.com/in/patrickhe2005/) | 📧 [Email](mailto:he.patrick2005@gmail.com)
+📧 [Email](mailto:he.patrick2005@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/patrickhe2005/)
 
 -----
 
