@@ -8,7 +8,7 @@
 
 #### I work with
 * 💻 C++ | Python | Java | Typescript
-* ![image](https://github.com/he-patrick/he-patrick/assets/77468352/29847d98-b112-4798-96f6-280ee83305ad) Next.js | React.js | Laravel
+* ![image | 100](https://github.com/he-patrick/he-patrick/assets/77468352/29847d98-b112-4798-96f6-280ee83305ad) Next.js | React.js | Laravel
 
  #### Stats
 [![Stats](https://github-readme-stats.vercel.app/api?username=he-patrick)](https://github.com/he-patrick)
