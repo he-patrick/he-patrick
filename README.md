@@ -7,6 +7,7 @@
 #### Current Working on
 * [AI Exam Grader](https://github.com/he-patrick/ai-exam-grader) - *Next.js application that grades exams*
 * [Event Planner](https://github.com/he-patrick/event-planner) - *Web app that helps you schedule events*
+* [RESTful API Aggregator](https://github.com/he-patrick/api-aggregator) — *A RESTful API that combines all your RESTful APIs and allows caching and storage*
 
 #### I work with
 * C++ | Python | Java | Typescript | Next.js | React.js | Laravel
@@ -20,4 +21,4 @@
 
 -----
 
-Last Edited on: 2024-01-09
+Last Edited on: 2024-01-11
