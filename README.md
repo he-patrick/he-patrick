@@ -12,7 +12,7 @@
 * C++ | Python | Java | Typescript | Next.js | React.js | Laravel
 
  #### Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=he-patrick)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-rust-five.vercel.app?user=he-patrick&theme=tokyonight)](https://git.io/streak-stats)
 
 #### Other Social Medias
 📧 [Email](mailto:he.patrick2005@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/patrickhe2005/)
