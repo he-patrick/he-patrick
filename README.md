@@ -1,6 +1,8 @@
 #### Hello 👋
 * My name's **Patrick He**
 * Computer engineering student at the **University of Waterloo**
+* SWE Intern at Canada Revenue Agency
+* Google Summer of Code 2024 at Jitsi Meet
 * Feel free the check out my website: 🌐 [patrickhe.com](https://patrickhe.com).
 * Resume: [Patrick He Resume.pdf](https://github.com/he-patrick/he-patrick/files/13966997/Patrick.He.Resume.pdf)
 
@@ -21,4 +23,4 @@
 
 -----
 
-Last Edited on: 2024-01-17
+Last Edited on: 2024-06-08
