@@ -7,9 +7,7 @@
 * Resume: [Patrick He Resume.pdf](https://github.com/he-patrick/he-patrick/files/13966997/Patrick.He.Resume.pdf)
 
 #### Current Working on
-* [AI Exam Grader](https://github.com/he-patrick/ai-exam-grader) - *Next.js application that grades exams*
-* [Event Planner](https://github.com/he-patrick/event-planner) - *Web app that helps you schedule events*
-* [RESTful API Aggregator](https://github.com/he-patrick/api-aggregator) — *A RESTful API that combines all your RESTful APIs and allows caching and storage*
+* [Jitsi Meet](https://github.com/jitsi/jitsi-meet): Open source voice conferencing application
 
 #### I work with
 * C++ | Python | Java | Typescript | Next.js | React.js | Laravel
@@ -23,4 +21,4 @@
 
 -----
 
-Last Edited on: 2024-06-08
+Last Edited on: 2024-06-09
