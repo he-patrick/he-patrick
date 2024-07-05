@@ -3,6 +3,7 @@
 * Computer engineering student at the **University of Waterloo**
 * SWE Intern at Canada Revenue Agency
 * Google Summer of Code 2024 at Jitsi Meet
+* Team Lead at [Electrium Mobility](https://electriummobility.com/)
 * Feel free the check out my website: 🌐 [patrickhe.com](https://patrickhe.com).
 * Resume: [Patrick He Resume.pdf](https://github.com/he-patrick/he-patrick/files/13966997/Patrick.He.Resume.pdf)
 
